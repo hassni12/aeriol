@@ -1,0 +1,6 @@
+{
+ "MongoURI":"mongodb://169.47.198.147:27017/aeriolascher",
+ "MongoURI1":"mongodb://localhost:27017/aeriolascher",
+ "privatekey":"AAAAP0yw0Ec:APA91bGXb7pyxP2kpowHrj1g7vQRHBNYrgxTvkCZMavPjVYgNcv8Lc8YD5Wv8q-AVoC94FU7_lWOp4uVdbhHJctuesyO_O7wk9YbEHMuWVOfOcBINl5i__R26gm-PW2Y5isutAJihKQJ",
+ "jwtSecret":"jwtSecret"   
+}
